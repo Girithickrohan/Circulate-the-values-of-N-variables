@@ -23,6 +23,6 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-
+![image](https://raw.githubusercontent.com/Girithickrohan/Circulate-the-values-of-N-variables/main/Screenshot%202023-11-23%20101711.png)
 ## Result:
 Thus the Circulate-the-values-of-N-variables are successfully executed
